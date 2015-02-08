@@ -1,0 +1,5 @@
+[22-Jan-2015 12:30:26 Pacific/Auckland] PHP Fatal error:  Call to undefined method Form::upload() in /home/andreikainer/public_html/_Assignments/WE03/public_html/includes/class.view.php on line 150
+[22-Jan-2015 12:51:00 Pacific/Auckland] PHP Fatal error:  Call to undefined method Form::upload() in /home/andreikainer/public_html/_Assignments/WE03/public_html/includes/class.view.php on line 150
+[23-Jan-2015 07:52:20 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/andreikainer/public_html/_Assignments/WE03/public_html/includes/class.view.php on line 254
+[23-Jan-2015 08:55:44 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/andreikainer/public_html/_Assignments/WE03/public_html/includes/class.view.php on line 254
+[23-Jan-2015 08:55:45 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/andreikainer/public_html/_Assignments/WE03/public_html/includes/class.view.php on line 254
