@@ -1,8 +1,8 @@
 <?php
-define("HOST", "localhost");
-define("USER_NAME", "andreika_andrei");
-define("PASSWORD", "yoobee2014");
-define("DB_NAME", "andreika_giggle");
+define("HOST", "mysql5.openhost.net.nz");
+define("USER_NAME", "dreig_andrei");
+define("PASSWORD", "yoobee2015!$");
+define("DB_NAME", "dreigma30401com38097_giggle");
 
 require_once('class.tools.php');
 

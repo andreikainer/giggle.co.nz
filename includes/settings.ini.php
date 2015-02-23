@@ -1,6 +1,6 @@
 ;<?php return; ?>
 [SQL]
-host = localhost
-user = andreika_andrei
-password = yoobee2014
-dbname = andreika_giggle
+host = mysql5.openhost.net.nz
+user = dreig_andrei
+password = yoobee2015!$
+dbname = dreigma30401com38097_giggle
